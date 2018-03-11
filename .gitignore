@@ -1,0 +1,9 @@
+*~
+.gradle/
+.idea/
+build/
+myscheme.iml
+app/.externalNativeBuild/
+app/obj/
+
+app/app.iml
